@@ -7,14 +7,17 @@
     "Game": "EscapeFromTarkov",
     "AvatarUrl": "https://raw.githubusercontent.com/gepcperformance/eft-fps-plz-public/master/avatars/maplesyrupjunkie.png",
     "PresetUrl": "https://raw.githubusercontent.com/gepcperformance/eft-fps-plz-public/master/presets/maplesyrupjunkie.eftpreset",
-    "_comment": "PLACEHOLDER specs — refine these to match your actual rig",
     "KeyboardLayout": "QWERTY",
+    "KeyboardModel": "BOOG75",
+    "MonitorModel": "ALIENWARE QD-OLED",
     "MonitorResolution": "2560x1440",
-    "MonitorRefreshRate": "240Hz",
+    "MonitorRefreshRate": "360Hz",
+    "MouseModel": "Beast X Pro",
     "MouseDpi": "800",
-    "Cpu": "Ryzen 7 7800X3D",
-    "Gpu": "RTX 4090",
-    "Ram": "32GB DDR5 6000 MHz"
+    "Cpu": "Ryzen 7 9800X3D",
+    "Gpu": "Gigabyte RTX 5090 Master Ice",
+    "Ram": "64GB DDR5 6000 MHz",
+    "Headphones": "Sennheiser HD 560S"
   },
   {
     "Name": "cocaoo_'s preset",
