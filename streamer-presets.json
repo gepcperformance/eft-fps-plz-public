@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "Name": "cocaoo_'s preset",
+    "Creator": "cocaoo_",
+    "Twitch": "https://www.twitch.tv/cocaoo_",
+    "Description": "EFT streamer — community showcase",
+    "Game": "EscapeFromTarkov",
+    "AvatarUrl": "https://raw.githubusercontent.com/gepcperformance/eft-fps-plz-public/master/avatars/cocaoo_.png",
+    "PresetUrl": "https://raw.githubusercontent.com/gepcperformance/eft-fps-plz-public/master/presets/cocaoo_.eftpreset"
+  }
+]
