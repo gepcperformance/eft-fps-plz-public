@@ -1,5 +1,14 @@
 [
   {
+    "Name": "maplesyrupjunkie's preset",
+    "Creator": "maplesyrupjunkie",
+    "Twitch": "https://www.twitch.tv/maplesyrupjunkie",
+    "Description": "App creator's personal EFT setup",
+    "Game": "EscapeFromTarkov",
+    "AvatarUrl": "https://raw.githubusercontent.com/gepcperformance/eft-fps-plz-public/master/avatars/maplesyrupjunkie.png",
+    "PresetUrl": "https://raw.githubusercontent.com/gepcperformance/eft-fps-plz-public/master/presets/maplesyrupjunkie.eftpreset"
+  },
+  {
     "Name": "cocaoo_'s preset",
     "Creator": "cocaoo_",
     "Twitch": "https://www.twitch.tv/cocaoo_",
