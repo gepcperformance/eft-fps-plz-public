@@ -1,7 +1,9 @@
 {
   "fullApp": "https://gepcperformance.com",
+  "intake": "https://gepcperformance.netlify.app/",
   "booking": "https://calendly.com/gepcperformance",
   "twitchChannel": "maplesyrupjunkie",
-  "paypal": "",
-  "streamlabs": ""
+  "paypal": "https://www.paypal.me/MapleSyrupJunkie",
+  "streamlabs": "https://streamlabs.com/maplesyrupjunkie/tip",
+  "discord": "https://discord.gg/xcAtCNh"
 }
